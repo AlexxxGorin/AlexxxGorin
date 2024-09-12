@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/jxsR1JhrmmeUE/giphy.gif?cid=ecf05e478xyn34e2joer6isy1u9aip4w7b2jx1z94qrnwvyh&ep=v1_gifs_related&rid=giphy.gif&ct=g)" width="100"/>
+</div>
 
 <!--
 **AlexxxGorin/AlexxxGorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
