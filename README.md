@@ -15,6 +15,8 @@ ML-Инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :zap: Участник и победитель хакатонов
 
+- 👓 Увлечение в Computer Vision
+
 - :mailbox: <a href="https://t.me/ALEKSANDERGORIN">Ссылка на telegram </a>
 
 ---
