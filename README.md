@@ -17,7 +17,9 @@ ML-Инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - 👓 Увлечение в Computer Vision
 
-- :mailbox: <a href="https://t.me/ALEKSANDERGORIN">Ссылка на telegram </a>
+- ☎️: <a href="https://t.me/ALEKSANDERGORIN">Ссылка на telegram </a>
+
+- 📫: alexgorin@gmail.com
 
 ---
 
