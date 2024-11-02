@@ -20,11 +20,13 @@ ML-Инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ---
 
 ### 🏆 Хакатоны :
-- 🥇 ИТС Регионам г.Пермь 2024
-- 🥇 ИТС Москва 2024
-- 🥈 IT Purple Hack 2024
-- 🥈 ЛЦТ Якутия 2023
-- 🥉 Московский туристический хакатон 2024
+- 🥇 <a href="https://github.com/AlexxxGorin/itc2024">ИТС Москва 2024</a>
+- 🥇 <a href="https://github.com/daniil-dushenev/its-perm-hack">ИТС.Регионам г.Пермь 2024</a>
+- 🥈 <a href="https://github.com/AlexxxGorin/rucode2024">Rucode 2024</a>
+- 🥈 <a href="https://github.com/vdmkkk/it-purple-hack-frontend">IT Purple Hack 2024</a>
+- 🥈 <a href="https://github.com/daniil-dushenev/lct-misis-ryazan">ЛЦТ Якутия 2023</a>
+- 🥉 <a href="https://github.com/PdrsDva3/dispatch_backend">Цифровой прорыв ПФО 2024</a>
+- 🥉 <a href="https://github.com/vdmkkk/MTH-Koptevo-frontend">Московский туристический хакатон 2024</a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
