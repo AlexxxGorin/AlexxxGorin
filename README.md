@@ -32,6 +32,7 @@ ML-Инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 - 🥈 <a href="https://github.com/daniil-dushenev/lct-misis-ryazan">ЛЦТ Якутия 2023</a>
 - 🥉 <a href="https://github.com/PdrsDva3/dispatch_backend">Цифровой прорыв ПФО 2024</a>
 - 🥉 <a href="https://github.com/vdmkkk/MTH-Koptevo-frontend">Московский туристический хакатон 2024</a>
+- 🪨 <a href="https://github.com/AlexxxGorin/biv-hack">BIV-Hack 2024</a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
