@@ -1,4 +1,5 @@
-[Gorin_CV_1811.pdf](https://github.com/user-attachments/files/17815884/Gorin_CV_1811.pdf)<div id="header" align="center">
+[Резюме](https://github.com/user-attachments/files/17815884/Gorin_CV_1811.pdf)<div id="header" align="center">
+
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://t.me/ALEKSANDERGORIN">
@@ -49,6 +50,5 @@ ML-Инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-[Gorin_CV_1811.pdf](https://github.com/user-attachments/files/17815887/Gorin_CV_1811.pdf)
 
 
