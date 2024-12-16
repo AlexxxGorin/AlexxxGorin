@@ -26,7 +26,7 @@ ML-Инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### 🏆 Хакатоны :
 - 🥇 <a href="https://github.com/PdrsDva3/TulaHack">TulaHackDays 2024</a>
-- 🥇 <a href="https://github.com/AlexxxGorin/itc2024">ИТС Москва 2024</a>
+- 🥇 <a href="https://github.com/ParkieV/itc-2024">ИТС Москва 2024</a>
 - 🥇 <a href="https://github.com/daniil-dushenev/its-perm-hack">ИТС.Регионам г.Пермь 2024</a>
 - 🥈 <a href="https://github.com/AlexxxGorin/rucode2024">Rucode 2024</a>
 - 🥈 <a href="https://github.com/vdmkkk/it-purple-hack-frontend">IT Purple Hack 2024</a>
