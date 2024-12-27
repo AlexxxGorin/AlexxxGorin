@@ -11,7 +11,7 @@
 ---
 
 ### :man_technologist: О себе :
-ML-Инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> и студент НИТУ МИСИС.
+ML-Инженер в МТС Digital <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> и студент НИТУ МИСИС.
 - :seedling: Учусь на направлении Прикладная математика Института компьютерных наук в НИТУ МИСИС (2023-2027)
 
 - :zap: Участник и победитель хакатонов
