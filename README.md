@@ -20,7 +20,7 @@ ML-Инженер в МТС Digital <img src="https://media.giphy.com/media/WUlp
 
 - ☎️: <a href="https://t.me/ALEKSANDERGORIN">Ссылка на telegram </a>
 
-- 📫: alexgorin@gmail.com
+- 📫: alexgorin37@gmail.com
 
 ---
 
